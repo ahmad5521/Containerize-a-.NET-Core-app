@@ -2,8 +2,8 @@
 Containerize a .NET Core app using docker
 
 # build an image from docker file
-	docker build -t counter-image -f Dockerfile .
+	docker build -t imageName -f Dockerfile .
 
 # create container
-	docker create --name core-counter counter-image
+	docker create --name containerName imageName
   
