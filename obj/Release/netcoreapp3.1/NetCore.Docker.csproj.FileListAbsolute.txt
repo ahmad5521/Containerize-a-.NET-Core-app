@@ -1,0 +1,11 @@
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\bin\Release\netcoreapp3.1\NetCore.Docker.exe
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\bin\Release\netcoreapp3.1\NetCore.Docker.deps.json
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\bin\Release\netcoreapp3.1\NetCore.Docker.runtimeconfig.json
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\bin\Release\netcoreapp3.1\NetCore.Docker.runtimeconfig.dev.json
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\bin\Release\netcoreapp3.1\NetCore.Docker.dll
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\bin\Release\netcoreapp3.1\NetCore.Docker.pdb
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\obj\Release\netcoreapp3.1\NetCore.Docker.csprojAssemblyReference.cache
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\obj\Release\netcoreapp3.1\NetCore.Docker.AssemblyInfoInputs.cache
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\obj\Release\netcoreapp3.1\NetCore.Docker.AssemblyInfo.cs
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\obj\Release\netcoreapp3.1\NetCore.Docker.dll
+C:\Users\ahmasiri\source\repos\Containerize-a-.NET-Core-app\obj\Release\netcoreapp3.1\NetCore.Docker.pdb
